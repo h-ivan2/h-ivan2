@@ -1,7 +1,30 @@
-## Hi there 👋
+
+
+
+###          Hey there I am Hirwa Yvan 
+
+I am a committed developing backend developer crafting clean APIs and enjoy building reliable and scalable secure server-side scripting applications 
+
+### 🛠Tech Stack
+Currently learning Javascript <br>
+Frameworks:I use  frameworks like node js and express js <br>
+Databases:MongoDB ,MySQL <br>
+Tools: Git and Github  <br>
+
+
+### 📫 Contact us
+Email:hirwaivan884@gmail.com <br>
+Follow me on Instagram: [@yourusername](https://instagram.com/yourusername)
+
+## 🎯 Goal 
+Becoming a backend dev and cyber security enthusiast
+
+## 🧪Projects : 
+Currenltly working on a library management system
+
 
 <!--
-**h-ivan2/h-ivan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**h-ivan2/h-ivan2 * is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
