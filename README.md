@@ -1,31 +1,51 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hirwa+Yvan+%F0%9F%91%8B;Backend+Developer;Cybersecurity+Enthusiast;API+Craftsman" alt="Typing SVG" />
 </div>
+
 <br/>
-```bash
 $ whoami
 > Hirwa Yvan — Backend Developer & Cybersecurity Enthusiast
+
 $ cat about.txt
-
-Committed to crafting clean APIs and building
-reliable, scalable, and secure server-side applications.
-Currently leveling up in JavaScript.
-
+> Committed to crafting clean APIs and building
+> reliable, scalable, and secure server-side applications. <br>
+> Currently leveling up in code.
 
 ---
 
 ### 🖥️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Languages**
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.w3schools.com/php/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+
+**Frameworks & Runtime**
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.w3schools.com/nodejs/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+**Databases**
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.w3schools.com/mongodb/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/mysql/)
+
+**Tools & IDEs**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h-ivan2)
+[![Git Bash](https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://git-scm.com/downloads)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
+### 🎯 Goals
+Long term   → Become a Backend Developer & Cybersecurity Expert
 
 
 ---
@@ -41,9 +61,10 @@ Currently leveling up in JavaScript.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ivan2&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ivan2&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ivan2&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF&cache_seconds=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ivan2&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&cache_seconds=0" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-ivan2&theme=dark&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
@@ -67,9 +88,25 @@ Currently leveling up in JavaScript.
 
 ---
 
-### 📬 Contact
-
-[![Gmail](https://img.shields.io/badge/hirwaivan884@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirwaivan884@gmail.com)
-[![Instagram](https://img.shields.io/badge/@hirwa__ivan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hirwa_ivan)
+### ⚡ Fun Facts
+$ cat fun_facts.txt <br>
+→ I believe clean code is a form of communication
 
 ---
+
+### 💬 Quote I Code By
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-ivan-4490953a5/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirwaivan884@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hirwa_ivan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h-ivan2)
+
+---
+
