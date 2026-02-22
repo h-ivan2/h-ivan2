@@ -4,10 +4,10 @@
 </div>
 
 <br/>
-$ whoami <br>
-> Hirwa Yvan — Backend Developer & Cybersecurity Enthusiast based in RW <br>
+<strong>$whoami <br> </strong>
+> Hirwa Yvan — Backend Developer & Cybersecurity Enthusiast based in Rwanda <br>
 
-$ cat about.txt
+### $cat about.txt
 > Committed to crafting clean APIs ,building and turning ideas into real systems ,
 > reliable, scalable, and secure server-side applications. <br>
 > Currently leveling up in code where every commit is a step to the goal <br>
@@ -63,8 +63,12 @@ Long term   → Become a Backend Developer & Cybersecurity Expert
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ivan2&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF&cache_seconds=0" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ivan2&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&cache_seconds=0" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-ivan2&theme=chartreuse_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-ivan2&theme=chartreuse_dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-ivan2&theme=chartreuse_dark" width="100%"/>
 </div>
 
 
