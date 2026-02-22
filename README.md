@@ -5,12 +5,14 @@
 
 <br/>
 $ whoami
-> Hirwa Yvan — Backend Developer & Cybersecurity Enthusiast
+> Hirwa Yvan — Backend Developer & Cybersecurity Enthusiast based in RW
 
 $ cat about.txt
-> Committed to crafting clean APIs and building
+> Committed to crafting clean APIs ,building and turning ideas into real systems ,
 > reliable, scalable, and secure server-side applications. <br>
-> Currently leveling up in code.
+> Currently leveling up in code where every commit is a step to the goal <br>
+> When I am not coding , I'm learning something new to code tomorrow.<br>
+> Currently persuing studies at Rwanda Coding academy <br>
 
 ---
 
@@ -98,6 +100,8 @@ $ cat fun_facts.txt <br>
 
 > *"First, solve the problem. Then, write the code."*
 > — John Johnson
+> The expert in anything was once a disaster at it
+> 
 
 ---
 
