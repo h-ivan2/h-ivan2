@@ -26,10 +26,7 @@ Currently leveling up in JavaScript.
 
 ---
 
-### 🎯 Current Mission
-[█████████░░░░░░░░░░░] Learning JavaScript
-[███░░░░░░░░░░░░░░░░░] Building: Library Management System
-[██░░░░░░░░░░░░░░░░░░] Goal: Backend + Cybersecurity
+
 
 ---
 
