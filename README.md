@@ -103,7 +103,7 @@ $ cat fun_facts.txt <br>
 ### 💬 Quote I Code By
 
 > *"First, solve the problem. Then, write the code."*
-> — John Johnson
+> — John Johnson <br>
 > The expert in anything was once a disaster at it
 > 
 
