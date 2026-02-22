@@ -4,8 +4,8 @@
 </div>
 
 <br/>
-$ whoami
-> Hirwa Yvan — Backend Developer & Cybersecurity Enthusiast based in RW
+$ whoami <br>
+> Hirwa Yvan — Backend Developer & Cybersecurity Enthusiast based in RW <br>
 
 $ cat about.txt
 > Committed to crafting clean APIs ,building and turning ideas into real systems ,
