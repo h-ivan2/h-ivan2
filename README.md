@@ -82,7 +82,7 @@ Long term   → Become a Backend Developer & Cybersecurity Expert
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-ivan2&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" />
-</div>
+</div> 
 
 ---
 
