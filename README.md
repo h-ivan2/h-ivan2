@@ -1,18 +1,17 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hirwa+Yvan+%F0%9F%91%8B;Backend+Developer;Cybersecurity+Enthusiast;API+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hirwa+Yvan+%F0%9F%91%8B;Backend+Developer;Cybersecurity+Enthusiast;API+Craftsman;React+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
 <strong>$whoami <br> </strong>
-> Hirwa Yvan — Backend Developer & Cybersecurity Enthusiast based in Rwanda <br>
+> Hirwa Yvan — Backend Developer, Cybersecurity Enthusiast based in Rwanda <br>
 
 ### $cat about.txt
-> Committed to crafting clean APIs ,building and turning ideas into real systems ,
+> Committed to crafting clean APIs, building fullstack applications, and turning ideas into real systems,
 > reliable, scalable, and secure server-side applications. <br>
 > Currently leveling up in code where every commit is a step to the goal <br>
 > When I am not coding , I'm learning something new to code tomorrow.<br>
-> Currently persuing studies at Rwanda Coding academy <br>
+> Currently persuing studies at Rwanda Coding Academy <br>
 
 ---
 
@@ -30,6 +29,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.w3schools.com/nodejs/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 
 **Databases**
 
@@ -47,8 +47,7 @@
 ---
 
 ### 🎯 Goals
-Long term   → Become a Backend Developer & Cybersecurity Expert
-
+Long term   → Become a Fullstack Developer & Cybersecurity Expert
 
 ---
 
@@ -71,7 +70,6 @@ Long term   → Become a Backend Developer & Cybersecurity Expert
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-ivan2&theme=chartreuse_dark" width="100%"/>
 </div>
 
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-ivan2&theme=dark&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
 </div>
@@ -82,7 +80,7 @@ Long term   → Become a Backend Developer & Cybersecurity Expert
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-ivan2&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" />
-</div> 
+</div>
 
 ---
 
@@ -105,7 +103,6 @@ $ cat fun_facts.txt <br>
 > *"First, solve the problem. Then, write the code."*
 > — John Johnson <br>
 > The expert in anything was once a disaster at it
-> 
 
 ---
 
@@ -117,4 +114,3 @@ $ cat fun_facts.txt <br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h-ivan2)
 
 ---
-
