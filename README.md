@@ -51,11 +51,7 @@ Long term   → Become a Fullstack Developer & Cybersecurity Expert
 
 ---
 
-### 🌊 Contribution Wave
 
-<div align="center">
-  <img src="./wave.svg" alt="Contribution Wave Animation" width="100%"/>
-</div>
 
 ---
 
@@ -83,12 +79,6 @@ Long term   → Become a Fullstack Developer & Cybersecurity Expert
 </div>
 
 ---
-
-### 📂 Projects
-
-| Project | Description | Status |
-|---|---|---|
-| 📖 Library Management System | Backend system for books, members & borrowing records | 🔨 In Progress |
 
 ---
 
