@@ -49,39 +49,6 @@
 ### 🎯 Goals
 Long term   → Become a Fullstack Developer & Cybersecurity Expert
 
----
-
-
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-ivan2&theme=chartreuse_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-ivan2&theme=chartreuse_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-ivan2&theme=chartreuse_dark" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-ivan2&theme=dark&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-ivan2&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
----
-
----
-
 ### ⚡ Fun Facts
 $ cat fun_facts.txt <br>
 → I believe clean code is a form of communication
